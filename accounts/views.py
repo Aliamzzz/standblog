@@ -33,6 +33,7 @@ def register(request):
 
 
 def auth_login(request):
+    context = {"errors": []}
     if request.user.is_authenticated:
         return redirect('home:home')
     if request.method == 'POST':
@@ -42,6 +43,9 @@ def auth_login(request):
         if user is not None:
             login(request, user)
             return redirect('home:home')
+        else:
+            context['errors'].append("Invalid username or password")
+            return render(request, 'accounts/login.html', context)
     return render(request, 'accounts/login.html')
 
 

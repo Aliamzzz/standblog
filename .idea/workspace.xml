@@ -5,63 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8223e2c-6320-426d-b187-c73381fdf6c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/flex-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/owl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/templatemo-stand-blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/flexslider-icon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/flexslider-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/flexslider-icon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/flexslider-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about-us.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-item-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-post-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-post-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-post-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog-thumb-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/comment-author-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/comment-author-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/comment-author-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cta-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/heading-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/accordions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/isotope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/owl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/standblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/standblog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/standblog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/standblog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/standblog/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,36 +31,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aliamzzz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aliamzzz/standblog.git&quot;,
+    &quot;accountId&quot;: &quot;3122c2a3-26e3-4418-9547-790c00132045&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2zZ5ZMRBoRhJsBLhAcLMEZvEwAO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Django Server.standblog.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/codes/django/standblog/static",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.standblog.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Code/Django/standblog/accounts/templates/accounts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\Django\standblog\accounts\templates\accounts" />
       <recent name="E:\codes\django\standblog\static" />
     </key>
   </component>
@@ -136,8 +109,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -150,6 +123,8 @@
       <option name="presentableId" value="Default" />
       <updated>1751925808821</updated>
       <workItem from="1751925824045" duration="4637000" />
+      <workItem from="1760693430703" duration="6659000" />
+      <workItem from="1760720194601" duration="3482000" />
     </task>
     <servers />
   </component>
