@@ -103,7 +103,10 @@
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
-                            <span>Fashion</span>
+                            {% for category in categories %}
+                                <span> {{ category.name }} </span>
+                            {% endfor %}
+
                         </div>
                         <a href="post-details.html"><h4>{{ article.title }}</h4></a>
                         <ul class="post-info">
